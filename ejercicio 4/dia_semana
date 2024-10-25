@@ -1,0 +1,16 @@
+<?php
+
+$dia = $_GET ['dia_semana'];
+
+echo "Ha llegado $dia";
+
+switch ($dia) {
+
+case 1:
+
+    echo "Lunes"
+
+
+
+}
+?>
